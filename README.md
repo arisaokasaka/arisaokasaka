@@ -27,13 +27,13 @@ Currently, I am engaged in front-end development.
 
 <br />
 
-<p>🎸　Main Languages</p>
+<p>🎸 Main Languages</p>
 
 <p>TypeScript, JavaScript, PHP</p>
 
 <br />
 
-<p>🔭 　Tools</p>
+<p>🔭 Tools</p>
 
 <p>React, Next.js, Jest, Apollo Client, webpack, Babel, Laravel</p>  
 
@@ -44,12 +44,3 @@ Currently, I am engaged in front-end development.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisaokasaka&hide=css,blade&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=arisaokasaka&theme=tokyonight&show_icons=true&icon_color=36B0A3&line_height=40" />
 </p>
-
-
-
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arisaokasaka&layout=compact&hide=css,blade&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arisaokasaka&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
