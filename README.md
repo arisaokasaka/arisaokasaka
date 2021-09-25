@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 
-I am a web developer.<br />
+I am a web developer from Japan.<br />
 Currently, I am engaged in front-end development.
 
 
