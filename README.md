@@ -35,7 +35,7 @@ Currently, I am engaged in front-end development.
 
 <p>🔭 Tools</p>
 
-<p>React, Next.js, Jest, Apollo Client, webpack, Babel, Laravel</p>  
+<p>React, Next.js, Jest, Apollo Client, webpack, Babel, Laravel, TailwindCSS, Bootstrap, Material UI</p>
 
 <br />
 <br />
