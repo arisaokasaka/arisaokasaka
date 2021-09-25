@@ -41,6 +41,6 @@ Currently, I am engaged in front-end development.
 <br />
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisaokasaka&hide=css,blade&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=arisaokasaka&theme=tokyonight&show_icons=true&icon_color=36B0A3&line_height=40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisaokasaka&hide=css,html,Shell,Dockerfile,blade&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arisaokasaka&theme=tokyonight&show_icons=true&icon_color=36B0A3&line_height=40&count_private=true" />
 </p>
