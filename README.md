@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img align="right" width="px" src="https://user-images.githubusercontent.com/68284764/134769786-684cf04e-7006-4356-b3db-2cb1b703ea72.png" />
+  <img align="right" width="280px" src="https://user-images.githubusercontent.com/68284764/134769786-684cf04e-7006-4356-b3db-2cb1b703ea72.png" />
 </p>
 
 
