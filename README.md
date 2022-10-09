@@ -1,4 +1,4 @@
-## Hi, I'm Arisa Okasaka 💫
+## Hi, I'm Arisa 💫
 
 <!--
 **arisaokasaka/arisaokasaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
