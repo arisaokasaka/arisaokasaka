@@ -23,8 +23,7 @@ language badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
 </p>
 
 
-I am a web developer from Japan.<br />
-Currently, I am engaged in front-end development.
+I am a web developer from Japan.
 
 
 <br />
@@ -61,16 +60,6 @@ Currently, I am engaged in front-end development.
 <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
-
-<br />
-
-<strong>* Trying by myself</strong>
-<p>
-<img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
 
 <br />
 <br />
