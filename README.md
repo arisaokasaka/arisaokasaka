@@ -60,12 +60,3 @@ I am a web developer from Japan.
 <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
-
-<br />
-<br />
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisaokasaka&hide=css,html,Shell,Dockerfile,blade&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=arisaokasaka&theme=tokyonight&show_icons=true&icon_color=36B0A3&line_height=40&count_private=truer&disable_animations=true" />
-
-</p>
